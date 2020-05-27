@@ -2,7 +2,7 @@
 
 ### Overview
 
-VBA scripts to analyze stock market data. 
+VBA scripts used to analyze stock market data. 
 
 ### Technologies Used
 
